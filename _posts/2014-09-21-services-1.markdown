@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: 1.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Aquaponics Technology
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Aquaponics refers to any system that combines conventional aquaculture (raising aquatic animals such as snails, fish, crayfish or prawns in tanks) with hydroponics (cultivating plants in water) in a symbiotic environment.

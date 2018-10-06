@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: 2.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Aeroponics Technology
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Aeroponics is the process of growing plants in an air or mist environment without the use of soil or an aggregate medium (known as geoponics).
