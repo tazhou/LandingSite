@@ -5,4 +5,4 @@ category: Services
 title: Farming Data Analysis 
 description: |
 ---
-  Use big data and AI technology to predict potenially plant diseases。
+  Use big data and AI technology to predict potenially plant diseases.
